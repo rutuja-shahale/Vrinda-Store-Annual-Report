@@ -8,7 +8,7 @@
 
 ✽ Tool Used:-
 
-Excel
+• Excel
 
 ✽ Insights of this Project:-
 
