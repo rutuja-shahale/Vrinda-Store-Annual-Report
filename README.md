@@ -12,16 +12,24 @@
 
 ✽ Insights of this Project:-
 
-• Analyze Monthly Sales Trends: Evaluate the monthly variations in total sales and order counts to identify peak and low sales periods.
+• Women are more likely to buy compared to men (~65%).
 
-• Assess Product Category Performance: Examine the performance of different product categories (Blouse, Bottom, Ethnic Dress) to understand which categories drive sales.
+• Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%).
 
-• Understand Sales Channel Distribution: Determine the contribution of each sales channel (Ajio, Amazon, Flipkart, Meesho) to the overall order volume.
+• Adult age group (30-49 yrs) is max contributing (~50%).
 
-• Identify Top Performing States: Highlight the top five states by sales volume to focus marketing and inventory efforts in high-performing regions.
+• Amazon, Flipkart and Myntra channels are max contributing (~80%).
 
-• Analyze Order Status Breakdown: Review the status of orders (e.g., completed, pending) to assess order fulfillment efficiency and identify potential areas for improvement.
+✽ Question of this Project:-
 
-• Demographic Insights: Analyze orders by age and gender to understand customer demographics and tailor marketing strategies accordingly.
+Q1. Compare the sales and orders using single chart?
 
-• Compare Sales by Gender: Compare sales between men and women to identify gender-based purchasing trends and preferences.
+Q2. Who purchased more- men or women in 2022?
+
+Q3. What are different order status in 2022?
+
+Q4. List top 5 states contributing to the sales?
+
+Q5. Relation between age and gender based on number?
+
+Q6. Which channel is contributing to maximum sales?
