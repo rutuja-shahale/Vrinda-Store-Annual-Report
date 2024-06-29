@@ -10,15 +10,24 @@
 
 • Excel
 
+![Vrinda Store Annual Report Dashboard](https://github.com/rutuja-shahale/Vrinda-Store-Annual-Report/assets/173451914/77d8b2c4-16b5-4efa-9b0d-25275cbf7388)
+
+
 ✽ Insights of this Project:-
 
-• Women are more likely to buy compared to men (~65%).
+• Top Performing State: Maharashtra generates the highest value, with 2,990,221 units, indicating strong demand in this region.
 
-• Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%).
+• Order Channels: The majority of orders come from Flipkart, accounting for 35% of transactions, suggesting customers prefer this channel.
 
-• Adult age group (30-49 yrs) is max contributing (~50%).
+• Order Status: A significant portion of orders, 92%, are completed, indicating efficient order processing and fulfillment.
 
-• Amazon, Flipkart and Myntra channels are max contributing (~80%).
+• Customer Demographics: Adults (age group) dominate the customer base with 34.59% of orders, and women are the primary buyers, accounting for 64% of transactions compared to men.
+
+• Monthly Trends: Monthly order values and counts are consistent throughout the year, with slight variations in specific months.
+
+• Top Categories: Ethnic Dresses, Blouses, and Bottoms show substantial demand, indicating popular product categories.
+
+• Sales Channels: Flipkart is the leading sales channel, followed by Amazon and Ajio, reflecting preferred online shopping platforms.
 
 ✽ Question of this Project:-
 
